@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Views-Snackbar</string>
+    <string name="btnAlert">Aleart Show</string>
+    <string name="btnCustom">Custom Dialog</string>
+    <string name="tittle">Tittle</string>
+    <string name="tvName">Enter Name Below</string>
+    <string name="Type">Type Here</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnSet">Set</string>
+    <string name="btnToast">Toast msg</string>
+    <string name="tvHello">Click On Buttons</string>
+</resources>
